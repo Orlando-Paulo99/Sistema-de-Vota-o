@@ -47,6 +47,8 @@ Após a identificação, o sistema apresenta as opções de voto:
 2 - Frontend
 O eleitor escolhe um dos candidatos.
 O sistema registra e confirma o voto.
+
+
 📚 Objetivo
 
 Este projeto foi desenvolvido para fins acadêmicos e de aprendizado, com o objetivo de praticar:
