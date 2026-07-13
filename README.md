@@ -31,9 +31,11 @@ PySimpleGUI
 ▶ Como Executar
 Utilizando o Executável
 
-Caso não possua o Python instalado, basta abrir o arquivo:
+## 📥 Download
 
-executavel/SistemaVotacao.exe
+A versão mais recente do sistema está disponível na página de **Releases**.
+
+➡️ https://github.com/Orlando-Paulo99/Sistema-de-Vota-o/releases/latest
 
 🗳 Fluxo da Aplicação
 O eleitor informa:
