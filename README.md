@@ -33,9 +33,11 @@ Utilizando o Executável
 
 ## 📥 Download
 
-Baixe a versão **v1.0** do sistema:
+Baixe a versão v1.0.1 do sistema:
 
-https://github.com/Orlando-Paulo99/Sistema-de-Vota-o/releases/tag/v1.0.0
+Acesse o link abaixo e baixe o arquivo votacao.py:
+
+https://github.com/Orlando-Paulo99/Sistema-de-Vota-o/releases/tag/v1.0.1
 
 🗳 Fluxo da Aplicação
 O eleitor informa:
