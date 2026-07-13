@@ -33,9 +33,9 @@ Utilizando o Executável
 
 ## 📥 Download
 
-A versão mais recente do sistema está disponível na página de **Releases**.
+Baixe a versão **v1.0** do sistema:
 
-➡️ https://github.com/Orlando-Paulo99/Sistema-de-Vota-o/releases/latest
+https://github.com/Orlando-Paulo99/Sistema-de-Vota-o/releases/tag/v1.0.0
 
 🗳 Fluxo da Aplicação
 O eleitor informa:
